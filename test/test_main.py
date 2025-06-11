@@ -1,2 +1,2 @@
-def valida() :
+def test_valida():
     assert True is True
